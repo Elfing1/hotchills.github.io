@@ -1,0 +1,25 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hotchills.org	TRUE	/	FALSE	1999999999	PHPSESSID	uflo1aogh7884vmvoircqt95m6
+.boards.net	TRUE	/	FALSE	1999999999	__cfduid	d3e40054d53940a9acac8fc65c0801e061511991207
+www.unrealsoftware.de	TRUE	/	FALSE	1999999999	PHPSESSID	27266d66ba3568cfb8038387f0afe332
+.blocweb.net	TRUE	/	FALSE	1999999999	__cfduid	db53ad4fea78866bc0c3f80eac45e582f1511991214
+.simplemachines.org	TRUE	/	FALSE	1999999999	P	4eb94125404ee6c93f8a9a258482305d
+.proboards.com	TRUE	/	FALSE	1999999999	__cfduid	db57bf96e9cee3a64c817aee45555cac61511991317
+.lumiatechnologies.com	TRUE	/	FALSE	1999999999	__cfduid	da49168eb6035cf994efb85c78e1ab3eb1511991333
+.imgfast.net	TRUE	/	FALSE	1999999999	__cfduid	d52e81bb72fd9a5906e698480c030186d1511991450
+.topicit.net	TRUE	/	FALSE	1999999999	__cfduid	d9eda3261f3c97feeef3542c1a7a2ba7e1511991466
+.reactiongifs.me	TRUE	/	FALSE	1999999999	__cfduid	d204c83eb185cf6890fbffacde53a3e3a1511992137
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d494e84906a6070e9da02af78bf2454f61511992394
+fws.boards.net	TRUE	/	FALSE	1999999999	fresh	expired
+.epvpimg.com	TRUE	/	FALSE	1999999999	__cfduid	da02ce3a9070f0397c8e7f1f0c4a2829f1511993807
+.prntscr.com	TRUE	/	FALSE	1999999999	__cfduid	df561c95e42ed53554c3f26c694df069e1511993825
+.servimg.com	TRUE	/	FALSE	1999999999	__cfduid	d3526266d0ed12655e7f38d0307e4eb5d1511994234
+.illiweb.com	TRUE	/	FALSE	1999999999	__cfduid	d629e43bc5bfd43e95e66afd9afdefbf41511994360
+.puu.sh	TRUE	/	FALSE	1999999999	__cfduid	dadf53061ae1f3b02c0f65eebceacd4401511994426
+www.gs4u.net	TRUE	/	FALSE	1999999999	20438a31d92e1eebe89c7ccd0b9d2f0f	hrcblm8a03ckr1742qpldk2dt0
+.unrealsoftware.de	TRUE	/	FALSE	1999999999	language	en%2C1%2C1%2C1%2C1%2Cpink%2C1
+www.simplemachines.org	TRUE	/	FALSE	1999999999	OAID	436a15f5f2d7ad9e38c3bca731eb9c7f
+www.paypal.com	TRUE	/	FALSE	1999999999	AKDC	slc-b-origin-www-2.paypal.com
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1511995384~id=3c45cf33978b0a435ec52d7961a8fbe6
+

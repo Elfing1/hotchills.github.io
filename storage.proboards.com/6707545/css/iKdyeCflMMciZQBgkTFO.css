@@ -1,0 +1,8 @@
+.avatar-wrapper .letter {
+    text-transform: uppercase;
+    text-align: center;
+}
+.avatar-wrapper.circle {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+}

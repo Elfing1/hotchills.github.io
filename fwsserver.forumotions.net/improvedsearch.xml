@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>-[IFwsI]-</ShortName>
+	<Description>-[IFwsI]- - Search</Description>
+	<InputEncoding>utf-8</InputEncoding>
+	<Contact>http://fwsserver.forumotions.net</Contact>
+	<Image height="16" width="16" type="image/x-icon">http://fwsserver.forumotions.net/favicon.ico</Image>
+	<Url type="text/html" method="get" template="http://fwsserver.forumotions.net/search.forum?search_keywords={searchTerms}&amp;src={referrer:source?}" />
+	<UpdateInterval>7</UpdateInterval>
+	<UpdateUrl>http://fwsserver.forumotions.net/improvedsearch.xml</UpdateUrl>
+	<IconUpdateUrl>http://fwsserver.forumotions.net/favicon.ico</IconUpdateUrl>
+	<moz:SearchForm>http://fwsserver.forumotions.net/search.forum</moz:SearchForm>
+</OpenSearchDescription>

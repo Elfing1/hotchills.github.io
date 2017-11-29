@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Nov 2017 00:32:42 at http://hotchills.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://hotchills.org/ -O1 "F:\HC\Hotchills.org" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:33:52	Error: 	"No data (connection closed)" (-4) after 2 retries at link www.w3.org/robots.txt (from hotchills.org/)
+00:33:57	Error: 	"Not Found" (404) at link hotchills.org/Themes/carbonate202b1/css/index_carbon.css?fin20 (from hotchills.org/)
+00:33:57	Warning: 	Found for hotchills.org/Themes/carbonate202b1/
+00:33:57	Warning: 	File has moved from hotchills.org/Themes/carbonate202b1/ to http://hotchills.org
+00:33:57	Warning: 	Found for hotchills.org/Themes/default/
+00:33:57	Warning: 	File has moved from hotchills.org/Themes/default/ to http://hotchills.org
+00:33:57	Warning: 	Found for hotchills.org/Themes/carbonate202b1/images/
+00:33:57	Warning: 	File has moved from hotchills.org/Themes/carbonate202b1/images/ to http://hotchills.org
+00:34:10	Warning: 	Found for hotchills.org/Themes/carbonate202b1/images/sp/
+00:34:10	Warning: 	File has moved from hotchills.org/Themes/carbonate202b1/images/sp/ to http://hotchills.org
+00:38:03	Warning: 	Moved Permanently for www.blocweb.net/robots.txt
+00:38:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.blocweb.net/robots.txt and https://www.blocweb.net/robots.txt
+00:38:03	Warning: 	Warning moved treated for www.blocweb.net/robots.txt (real one is https://www.blocweb.net/robots.txt)
+00:38:03	Warning: 	Moved Permanently for www.blocweb.net/
+00:38:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.blocweb.net/ and https://www.blocweb.net/
+00:38:03	Warning: 	File has moved from www.blocweb.net/ to https://www.blocweb.net/
+00:38:03	Warning: 	Note: due to www.simplemachines.org remote robots.txt rules, links beginning with these path will be forbidden: /admin/, /adsystem/ (see in the options to disable this)
+00:38:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.simpleportal.net/robots.txt (from hotchills.org/)
+00:38:37	Warning: 	Retry after error -5 (Unable to get server's address: Ýstenen ad geçerli olduðu halde istenen türde bi) at link www.simpleportal.net/ (from hotchills.org/)
+00:52:12	Error: 	"Not Found" (404) at link fws.boards.net/android-app://com.quoord.tapatalkpro.activity/tapatalk/fws.boards.net?location=index (from fws.boards.net/)
+00:52:12	Error: 	"Not Found" (404) at link fws.boards.net/ios-app://307880732/tapatalk/fws.boards.net?location=index (from fws.boards.net/)
+00:52:14	Error: 	"Forbidden" (403) at link www.lumiatechnologies.com/verMenuImages.png (from fws.boards.net/)
+01:04:24	Error: 	"Not Found" (404) at link https://www.lumiatechnologies.com/top.js (from fws.boards.net/)
+01:21:08	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://image.ibb.co/dPDZoR/asdas.png (from www.unrealsoftware.de/forum_posts.php?post=416448&start=0)
+01:23:16	Error: 	"Not Found" (404) at link imagizer.imageshack.us/a/img59/9673/5pp8.png (from hotchills.org/index.php/topic,1101.0.html?PHPSESSID=uflo1aogh7884vmvoircqt95m6)
+01:23:20	Error: 	"Not Found" (404) at link r26.imgfast.net/users/2613/16/10/96/avatars/770-81.jpg (from hotchills.org/index.php/topic,1101.0.html?PHPSESSID=uflo1aogh7884vmvoircqt95m6)
+01:28:23	Warning: 	Note: due to https://www.simplemachines.org remote robots.txt rules, links beginning with these path will be forbidden: /admin/, /adsystem/ (see in the options to disable this)
+01:33:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.simpleportal.net/ (from hotchills.org/)
+01:38:25	Error: 	Exit requested by shell or user
+01:38:33	Error: 	Exit requested by shell or user
+01:38:33	Error: 	"" (-1) at link hotchills.org/index.php?action=stats;expand=201405 (from hotchills.org/index.php?action=stats)
+01:38:33	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 5 minutes 51 seconds : 5524 links scanned, 5393 files written (216954441 bytes overall) [62903136 bytes received at 15920 bytes/sec], 192815080 bytes transferred using HTTP compression in 4588 files, ratio 18%, 2.4 requests per connection
+(13 errors, 19 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
